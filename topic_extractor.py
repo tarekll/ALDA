@@ -34,5 +34,5 @@ if __name__ == '__main__':
         for i in range(0, header_count):
             topic_model['Topic {}'.format(i)] = topics[i]
 
-        with codecs.open(os.path.join(argv[2], f).replace('.csv', '_alda.txt'), 'w', encoding='UTF-8') as w:
+        with codecs.open(os.path.join(argv[2], f).replace('.csv', '_alda.json'), 'w', encoding='UTF-8') as w:
             w.write(str(topic_model).replace("'", "\""))
