@@ -14,5 +14,7 @@ Conjunction with RenA
 ------
 Suppose you used https://github.com/souleiman/RenA to collect attributes and NE and want to merge the attributes and NE.
 
-	> util/merge_all.py [path_to_alda_json_files] [path_to_all_ner_attribute_json_files] [merged_output_directory]
+	> util/merge_all.py [path_to_alda_json_files] \
+			    [path_to_all_ner_attribute_json_files] \
+			    [merged_output_directory]
 	
