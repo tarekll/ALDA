@@ -18,7 +18,7 @@ if len(argv) != 3:
 if __name__ == '__main__':
     files = [file for file in listdir(argv[1]) if file.endswith('.csv')]
 
-    for f in files[:1]:
+    for f in files:
         with codecs.open(os.path.join(argv[1], f), 'r', encoding='utf-8') as r:
             contents = r.read().strip().split("\n")
 
