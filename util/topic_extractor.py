@@ -1,9 +1,10 @@
-#!/usr/bin/env python 
+#!/usr/bin/env python
 # coding=utf-8
 __author__ = 'Souleiman Ayoub'
 
 import os
 import codecs
+import json
 
 from os import listdir
 from sys import argv
@@ -32,7 +33,8 @@ if __name__ == '__main__':
                 topics[i].append(values[i * 2])
         topic_model = {}
         for i in range(0, header_count):
-            topic_model['Topic {}'.format(i)] = topics[i]
+            topic_model['Topic {}'.format(i + 1)] = topics[i]
 
+        output = json.dumps(topic_model, ensure_ascii=False, indent=2)
         with codecs.open(os.path.join(argv[2], f).replace('.csv', '_alda.json'), 'w', encoding='UTF-8') as w:
-            w.write(str(topic_model).replace("'", "\""))
+            w.write(output)
