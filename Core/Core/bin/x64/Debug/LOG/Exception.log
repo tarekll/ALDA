@@ -1,0 +1,277 @@
+[12:19:15] Cannot find table 0.
+[12:19:15]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:15] System.Data
+[12:19:20] Cannot find table 0.
+[12:19:20]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:20] System.Data
+[12:19:23] Cannot find table 0.
+[12:19:23]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:23] System.Data
+[12:19:26] Cannot find table 0.
+[12:19:26]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:26] System.Data
+[12:19:28] Cannot find table 0.
+[12:19:28]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:28] System.Data
+[12:19:31] Cannot find table 0.
+[12:19:31]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:31] System.Data
+[12:19:34] Cannot find table 0.
+[12:19:34]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:34] System.Data
+[12:19:37] Cannot find table 0.
+[12:19:37]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:37] System.Data
+[12:19:40] Cannot find table 0.
+[12:19:40]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:40] System.Data
+[12:19:43] Cannot find table 0.
+[12:19:43]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:43] System.Data
+[12:19:46] Cannot find table 0.
+[12:19:46]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:46] System.Data
+[12:19:48] Cannot find table 0.
+[12:19:48]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:48] System.Data
+[12:19:51] Cannot find table 0.
+[12:19:51]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:19:51] System.Data
+[12:26:47] Cannot find table 0.
+[12:26:47]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:26:47] System.Data
+[12:26:52] Cannot find table 0.
+[12:26:52]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:26:52] System.Data
+[12:26:55] Cannot find table 0.
+[12:26:55]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:26:55] System.Data
+[12:26:58] Cannot find table 0.
+[12:26:58]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:26:58] System.Data
+[12:27:00] Cannot find table 0.
+[12:27:00]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:00] System.Data
+[12:27:03] Cannot find table 0.
+[12:27:03]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:03] System.Data
+[12:27:06] Cannot find table 0.
+[12:27:06]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:06] System.Data
+[12:27:10] Cannot find table 0.
+[12:27:10]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:10] System.Data
+[12:27:13] Cannot find table 0.
+[12:27:13]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:13] System.Data
+[12:27:16] Cannot find table 0.
+[12:27:16]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:16] System.Data
+[12:27:19] Cannot find table 0.
+[12:27:19]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:19] System.Data
+[12:27:22] Cannot find table 0.
+[12:27:22]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:22] System.Data
+[12:27:24] Cannot find table 0.
+[12:27:24]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:27:24] System.Data
+[12:28:14] Cannot find table 0.
+[12:28:14]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:28:14] System.Data
+[12:28:19] Cannot find table 0.
+[12:28:19]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:28:19] System.Data
+[12:28:22] Cannot find table 0.
+[12:28:22]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:28:22] System.Data
+[12:28:24] Cannot find table 0.
+[12:28:24]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:28:24] System.Data
+[12:28:27] Cannot find table 0.
+[12:28:27]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:28:27] System.Data
+[12:28:30] Cannot find table 0.
+[12:28:30]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:28:30] System.Data
+[12:28:33] Cannot find table 0.
+[12:28:33]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:28:33] System.Data
+[12:28:36] Cannot find table 0.
+[12:28:36]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:28:36] System.Data
+[12:30:33] Cannot find table 0.
+[12:30:33]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:33] System.Data
+[12:30:37] Cannot find table 0.
+[12:30:37]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:37] System.Data
+[12:30:40] Cannot find table 0.
+[12:30:40]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:40] System.Data
+[12:30:43] Cannot find table 0.
+[12:30:43]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:43] System.Data
+[12:30:46] Cannot find table 0.
+[12:30:46]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:46] System.Data
+[12:30:49] Cannot find table 0.
+[12:30:49]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:49] System.Data
+[12:30:52] Cannot find table 0.
+[12:30:52]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:52] System.Data
+[12:30:54] Cannot find table 0.
+[12:30:54]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:54] System.Data
+[12:30:57] Cannot find table 0.
+[12:30:57]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:30:57] System.Data
+[12:31:00] Cannot find table 0.
+[12:31:00]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:31:00] System.Data
+[12:31:03] Cannot find table 0.
+[12:31:03]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:31:03] System.Data
+[12:31:06] Cannot find table 0.
+[12:31:06]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:31:06] System.Data
+[12:31:08] Cannot find table 0.
+[12:31:08]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.DataHelper.LoadCorpus(Parameter parameter, Char[] delimiter) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\DataHelper.cs:line 80
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 43
+[12:31:08] System.Data
+[14:57:21] Cannot find table 0.
+[14:57:21]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.ModelHelper.getword(String root) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 45
+   at Core.Helper.ModelHelper.ExportVoca(String path) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 61
+   at Core.Model.LDA.Inference() in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Model\LDA.cs:line 130
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 45
+[14:57:21] System.Data
+[15:01:09] Cannot find table 0.
+[15:01:09]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.ModelHelper.getword(String root) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 45
+   at Core.Helper.ModelHelper.ExportVoca(String path) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 61
+   at Core.Model.LDA.Inference() in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Model\LDA.cs:line 130
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 45
+[15:01:09] System.Data
+[15:16:47] Cannot find table 0.
+[15:16:47]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.ModelHelper.getword(String root) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 45
+   at Core.Helper.ModelHelper.ExportVoca(String path) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 61
+   at Core.Model.LDA.Inference() in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Model\LDA.cs:line 130
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 45
+[15:16:47] System.Data
+[15:19:28] Cannot find table 0.
+[15:19:28]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.ModelHelper.getword(String root) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 45
+   at Core.Helper.ModelHelper.ExportVoca(String path) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 61
+   at Core.Model.LDA.Inference() in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Model\LDA.cs:line 130
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 45
+[15:19:28] System.Data
+[15:26:46] Cannot find table 0.
+[15:26:46]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.ModelHelper.getword(String root) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 45
+   at Core.Helper.ModelHelper.ExportVoca(String path) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 61
+   at Core.Model.LDA.Inference() in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Model\LDA.cs:line 130
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 45
+[15:26:46] System.Data
+[15:31:25] Cannot find table 0.
+[15:31:25]    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Core.Helper.ModelHelper.getword(String root) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 45
+   at Core.Helper.ModelHelper.ExportVoca(String path) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Helper\ModelHelper.cs:line 61
+   at Core.Model.LDA.Inference() in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Model\LDA.cs:line 130
+   at Core.Program.Main(String[] args) in \\vmware-host\shared folders\VMShare\LDA\Core\Core\Program.cs:line 45
+[15:31:25] System.Data
