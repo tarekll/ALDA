@@ -12,7 +12,7 @@ After collecting the topics, you may use topic_extractor.py to extract the topic
 
 Conjunction with RenA
 ------
-Suppose you used https://github.com/souleiman/RenA to collect attributes and NE and want to merge the attributes and NE.
+Suppose you used https://github.com/tarekll/RenA to collect attributes and NE and want to merge the attributes and NE.
 
 	> util/merge_all.py [path_to_alda_json_files] \
 			    [path_to_all_ner_attribute_json_files] \
